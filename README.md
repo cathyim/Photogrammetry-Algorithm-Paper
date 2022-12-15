@@ -1,1 +1,1 @@
-# SeniorComprehensiveProject
+# Senior Comprehensive Project Paper
